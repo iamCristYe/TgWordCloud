@@ -1,0 +1,24 @@
+bit
+ly
+https
+www
+type text
+link text
+text
+http
+text http
+type
+n
+type hashtag
+type http
+mention text
+hashtag text
+type link
+type mention
+type bold
+bold text
+mention
+hashtag
+link
+bold
+href
